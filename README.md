@@ -1,4 +1,4 @@
-### Medical Prescription Analyzer
+# Medical Prescription Analyzer
 
 A web-based application to analyze medical prescriptions.  
 It extracts medicines from handwritten prescriptions, fetches detailed information, and generates a structured PDF report for easy reference.
