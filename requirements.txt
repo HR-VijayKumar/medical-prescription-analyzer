@@ -1,0 +1,10 @@
+pillow
+google-generativeai
+playwright
+beautifulsoup4
+requests
+PyMuPDF
+markdownify
+reportlab
+backoff
+gradio
