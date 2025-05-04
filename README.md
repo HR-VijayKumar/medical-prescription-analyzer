@@ -41,7 +41,7 @@ It extracts medicines from handwritten prescriptions, fetches detailed informati
 ## Installation (Local)
 
 ```
-git clone https://github.com/your-username/medical-prescription-analyzer.git
+git clone https://github.com/HR-VijayKumar/medical-prescription-analyzer.git
 cd medical-prescription-analyzer
 
 # Create virtual environment
